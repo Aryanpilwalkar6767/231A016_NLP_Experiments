@@ -1,0 +1,17 @@
+Dataset
+
+text = Hey everyone!!! 👋
+
+I'm REALLY excited 😊 because I've just completed my first Machine Learning project on 23rd July, 2026. The project analyzed over 12,500 customer reviews collected from https://www.example.com and another dataset downloaded from www.kaggle.com.
+
+Unfortunately, some reviews weren't useful—they contained only words like "the", "is", "and", "of", "to", etc. Others had strange symbols such as @#$%^&*, repeated punctuation!!!!!!, HTML tags like <br>, and emojis 😂😂😂.
+
+You can contact me at vijay.shanker@eng.rizvi.edu.in or support123@company.co.in if you'd like the dataset. Follow us on Twitter @AI_ResearchLab and use hashtags like #MachineLearning #NLP #DataScience.
+
+The model's accuracy increased from 82.5% to 91.8%, while the training time decreased by nearly 35%. It processed 1,25,000 records in less than 2.5 hours and consumed around 3.7 GB of RAM.
+
+Students were studying, analyzing, processing, predicting, running, writing, and comparing different algorithms. The researchers discovered better techniques after performing extensive experiments and evaluating multiple models.
+
+Don't worry if the results aren't perfect—you're learning! Let's improve them together. I'll upload the final report by 30/07/2026.
+
+Thanks!!!
