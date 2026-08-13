@@ -1,0 +1,8 @@
+Part 1
+
+sentence_1 = "The quick brown fox jumps over the lazy dog"
+sentence_2 = "This is the class of natural language processing."
+
+Part 2
+
+text = "The Natural Language Toolkit, or more commonly NLTK, is a wonderful suite of libraries for Python! Dr. John Doe, an expert in AI, visited M.I.T. last Tuesday at 3:00 PM. He spoke about text-processing, running algorithms, and how computers are learning beautifully from human data. Aren't these technologies changing India rapidly?"
