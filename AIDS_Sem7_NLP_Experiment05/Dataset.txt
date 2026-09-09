@@ -1,0 +1,8 @@
+Part 1
+
+corpus = "Science is a most fast growing field. Engineering and architecture make the basic necessity of survival. Engineering is one of the most opted technology field. Engineering has contributed in a large manner. Architecture provided the basic foundation of human civilization.Engineering and architecture are hence required to sustain humanity"
+test = "Engineering is a fast growing field"
+
+Part 2
+
+test_sentence = "ASIAN EXPORTERS FEAR DAMAGE"
