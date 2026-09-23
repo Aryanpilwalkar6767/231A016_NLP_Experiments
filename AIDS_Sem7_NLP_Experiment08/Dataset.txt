@@ -1,0 +1,10 @@
+documents = [
+    "The cat is sleeping on the sofa.",
+    "The dog is playing in the garden.",
+    "She is reading a book about science.",
+    "The weather is sunny and pleasant today.",
+    "The cat is playing with a small ball.",
+    "He enjoys reading books in his free time.",
+    "The children are playing in the garden.",
+    "Machine learning helps computers understand language."
+]
